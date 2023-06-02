@@ -1,5 +1,16 @@
 .App {
   text-align: center;
+  width: 50%;
+  margin: auto;
+}
+
+img {
+  width: 100%;
+}
+
+iframe {
+  width: 50vw;
+  height: 37.5vw;
 }
 
 .App-logo {
@@ -32,6 +43,7 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
